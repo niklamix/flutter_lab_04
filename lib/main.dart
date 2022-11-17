@@ -38,7 +38,7 @@ class MyWidgetState extends State<MyWidget> {
             children: [
               ElevatedButton(
                 onPressed: () {
-                  followTheLink('https://github.com/niklamix/flutter_lab_01');
+                  followTheLink('https://github.com/niklamix/flutter_lab_04');
                 },
                 style: ButtonStyle(backgroundColor: MaterialStateProperty.all(
                     Colors.white60)),
